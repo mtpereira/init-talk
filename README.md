@@ -1,7 +1,7 @@
 init-talk
 =========
 
-Talk about init systems by R42.
+R42: Talk about init systems.
 
 # init
 
