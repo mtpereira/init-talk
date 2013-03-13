@@ -5,6 +5,11 @@ R42: Talk about init systems.
 
 # init
 
+## Useful URLs
+
+- The Linux Documentation Project: http://tldp.org
+- Linux Standard Base - Init: http://refspecs.linuxbase.org/LSB_3.1.1/LSB-Core-generic/LSB-Core-generic/tocsysinit.html
+
 ## What is it?
 
 Quote from tldp.org (http://www.tldp.org/LDP/sag/html/init-intro.html):
